@@ -1,6 +1,6 @@
 ### Guilherme Mascarenhas
 
-Um desenvolvedor em constante aprendizado! Possuo conhecimento em diversas áreas, como industrial e comercial. Desenvolvo websites e aplicativos para diversas empresas ao redor do mundo. Tenho habilidades em várias linguagens e padrões, como React, JavaScript, PHP, Node, React Native, MVC, PWA. Sou um entusiasta da tecnologia e apaixonado pelo meu trabalho, sempre ávido por aprender mais !!!
+Um desenvolvedor em constante aprendizado! Possuo conhecimento em diversas áreas, como industrial e comercial. Desenvolvo websites e aplicativos para diversas empresas ao redor do mundo. Tenho habilidades em várias linguagens como NextJS, ReactJS, React Native, TypeScript, JavaScript, PHP, NodeJS, MySQL, SQLite, SQLServer, um pouco de Delphi. Sou um entusiasta da tecnologia e apaixonado pelo meu trabalho, sempre ávido por aprender mais !!!
 
 ## Technologies I use (Tecnologias que utilizo no meu dia)
 
