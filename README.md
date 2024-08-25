@@ -2,7 +2,7 @@
 
 Um desenvolvedor em constante aprendizado! Possuo conhecimento em diversas áreas, como industrial e comercial. Desenvolvo websites e aplicativos para diversas empresas ao redor do mundo. Tenho habilidades em várias linguagens como NextJS, ReactJS, React Native, TypeScript, JavaScript, PHP, NodeJS, MySQL, SQLite, SQLServer, um pouco de Delphi. Sou um entusiasta da tecnologia e apaixonado pelo meu trabalho, sempre ávido por aprender mais !!!
 
-## Technologies I use (Tecnologias que utilizo no meu dia)
+## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br/>
   <img align='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
