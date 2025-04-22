@@ -18,7 +18,7 @@ Atualmente estou explorando mais sobre arquitetura de software, microsserviços,
 
 <div style="display: inline_block"><br/>
   
-  <img style="margin: 5px; width: 60px; pointer-events: none;" align='center' alt='Rust' src='https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white'/>
+  <img style="margin: 5px; height: 60px; pointer-events: none;" align='center' alt='Rust' src='https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white'/>
   <img style="margin: 5px;" align='center' alt='Kotlin' src='https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white'/>
   <img style="margin: 5px;" align='center' alt='NodeJs' src='https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white'/>
   <img style="margin: 5px;" align='center' alt='PHP' src='https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white'/>
